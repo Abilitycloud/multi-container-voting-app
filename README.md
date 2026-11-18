@@ -245,6 +245,12 @@ Future Improvements
 
 ⸻
 
+My Contribution
+
+- Contributed to project version control and repository management using Git and GitHub.
+- Assisted with pushing and maintaining project files in the shared repository.
+- Collaborated with team members to organize and manage project code.
+
 Team Members
 
 * Tobi Adekunle – Team Lead / Development
